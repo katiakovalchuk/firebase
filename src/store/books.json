@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Things Fall Apart",
+    "isRead": false,
+    "description": "The novel chronicles the life of Okonkwo, the leader of an Igbo community, from the events leading up to his banishment from the community for accidentally killing a clansman, through the seven years of his exile, to his return, and it addresses a particular problem of emergent Africa."
+  },
+  {
+    "id": 2,
+    "title": "Fairy tales",
+    "isRead": false,
+    "description": "Fairy tale is a type of short narrative that typically features such folkloric characters, such as fairies, goblins, elves, trolls, dwarves, giants or gnomes, and usually magic or enchantments."
+  },
+  {
+    "id": 3,
+    "title": "The Divine Comedy",
+    "isRead": false,
+    "description": "The Divine Comedy describes Dante's descent into Hell with Virgil as a guide; his ascent of Mount Purgatory and encounter with his dead love, Beatrice; and finally, his arrival in Heaven."
+  },
+  {
+    "id": 4,
+    "title": "The Epic Of Gilgamesh",
+    "isRead": false,
+    "description": "It follows the story of Gilgamesh, the mythological hero-king of Uruk, and his half-wild friend, Enkidu, as they undertake a series of dangerous quests and adventures, and then Gilgamesh's search for the secret of immortality after the death of his friend."
+  },
+  {
+    "id": 5,
+    "title": "The Book Of Job",
+    "isRead": false,
+    "description": "It is found in the third section of the biblical canon known as the Ketuvim (“Writings”). The book's theme is the eternal problem of unmerited suffering, and it is named after its central character, Job, who attempts to understand the sufferings that engulf him."
+  }
+]

@@ -1,0 +1,49 @@
+
+.Book{
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  border: 1px solid #969595;
+  border-radius: 5px;
+  margin: 20px 0;
+  padding: 20px 30px;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: .5px;
+  background-color: #00FFFF33;
+  box-shadow: #00000033 0 6px 14px 0, #00000019 0 2px 4px 0, #FFFFFF0C 0 0 0 1px inset;
+
+  &__inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+  &__modify-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 25%;
+    max-width: 200px;
+    margin-right: 30px;
+  }
+  &__content{
+    font-style: italic;
+  }
+  &__description{
+    font-style: italic;
+  }
+  &__checkbox{
+    cursor: pointer;
+  }
+  &__edit-icon{
+    padding: 5px;
+    cursor: pointer;
+    font-size: 22px;
+  }
+  &__delete-icon{
+    padding: 5px;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,33 @@
+
+.Form {
+  width: 90%;
+  margin: 0 auto;
+  padding: 40px;
+
+  &__heading{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  &__input {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 10px 0;
+  }
+  &__input:focus{
+    outline: none;
+    border: 1px solid #484848;
+    box-shadow: #00000033 0 6px 14px 0, #00000019 0 2px 4px 0, #FFFFFF0C 0 0 0 1px inset;
+  }
+  &__btn {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 20px;
+    cursor: pointer;
+    background-color: #FAF8FDFF;
+    border: 1px solid #b0afaf;
+    border-radius: 5px;
+  }
+  &__btn:hover{
+    background-color: rgba(176, 175, 175, 0.25);
+  }
+}
